@@ -31,6 +31,7 @@
 | [0648-replace-words](https://github.com/AM-ES-94/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AM-ES-94/LeetCode/tree/master/1044-find-common-characters) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/AM-ES-94/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Sorting
 |  |
 | ------- |

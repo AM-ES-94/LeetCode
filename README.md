@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/AM-ES-94/LeetCode/tree/master/0283-move-zeroes) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AM-ES-94/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/AM-ES-94/LeetCode/tree/master/0283-move-zeroes) |
 | [0648-replace-words](https://github.com/AM-ES-94/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AM-ES-94/LeetCode/tree/master/1044-find-common-characters) |

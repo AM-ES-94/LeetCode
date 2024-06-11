@@ -27,6 +27,7 @@
 | [0648-replace-words](https://github.com/AM-ES-94/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AM-ES-94/LeetCode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/AM-ES-94/LeetCode/tree/master/1217-relative-sort-array) |
 # Array
 |  |
 | ------- |
@@ -38,12 +39,14 @@
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AM-ES-94/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/AM-ES-94/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/AM-ES-94/LeetCode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AM-ES-94/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/AM-ES-94/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/AM-ES-94/LeetCode/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
@@ -52,6 +55,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/AM-ES-94/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/AM-ES-94/LeetCode/tree/master/1217-relative-sort-array) |
 # Bit Manipulation
 |  |
 | ------- |

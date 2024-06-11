@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/AM-ES-94/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/AM-ES-94/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AM-ES-94/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/AM-ES-94/LeetCode/tree/master/0648-replace-words) |
@@ -51,3 +52,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/AM-ES-94/LeetCode/tree/master/1137-height-checker) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AM-ES-94/LeetCode/tree/master/0136-single-number) |

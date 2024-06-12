@@ -4,16 +4,9 @@ class Solution {
         int high = nums.length - 1;
         int mid = 0;
         while (mid <= high){
-            if (nums[mid] == 0) {
-                swap(nums, low, mid);
-                ++low;
-                ++mid;
-            }
+            if (nums[mid] == 0) swap(nums, low++, mid++);
             else if (nums[mid] == 1) ++mid;
-            else {
-                swap(nums, mid, high);
-                --high;
-            }
+            else swap(nums, mid, high--);
         }
     }
 

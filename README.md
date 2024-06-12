@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AM-ES-94/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AM-ES-94/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AM-ES-94/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AM-ES-94/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/AM-ES-94/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -50,6 +52,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AM-ES-94/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |

@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AM-ES-94/LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/AM-ES-94/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AM-ES-94/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AM-ES-94/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -45,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AM-ES-94/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/AM-ES-94/LeetCode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/AM-ES-94/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AM-ES-94/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -59,6 +61,7 @@
 | [0075-sort-colors](https://github.com/AM-ES-94/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/AM-ES-94/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AM-ES-94/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/AM-ES-94/LeetCode/tree/master/1137-height-checker) |
@@ -83,3 +86,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/AM-ES-94/LeetCode/tree/master/0502-ipo) |

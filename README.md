@@ -29,6 +29,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AM-ES-94/LeetCode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/AM-ES-94/LeetCode/tree/master/0409-longest-palindrome) |
@@ -39,6 +40,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AM-ES-94/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AM-ES-94/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AM-ES-94/LeetCode/tree/master/0136-single-number) |

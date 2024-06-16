@@ -20,6 +20,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/AM-ES-94/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/AM-ES-94/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/AM-ES-94/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
@@ -45,6 +46,7 @@
 | [0075-sort-colors](https://github.com/AM-ES-94/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AM-ES-94/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/AM-ES-94/LeetCode/tree/master/0283-move-zeroes) |
+| [0330-patching-array](https://github.com/AM-ES-94/LeetCode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AM-ES-94/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AM-ES-94/LeetCode/tree/master/0485-max-consecutive-ones) |

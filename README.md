@@ -41,6 +41,7 @@
 | [0876-hand-of-straights](https://github.com/AM-ES-94/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AM-ES-94/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/AM-ES-94/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AM-ES-94/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1137-height-checker](https://github.com/AM-ES-94/LeetCode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/AM-ES-94/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/AM-ES-94/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AM-ES-94/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AM-ES-94/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AM-ES-94/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AM-ES-94/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -111,7 +113,9 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AM-ES-94/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AM-ES-94/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Sliding Window
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/AM-ES-94/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AM-ES-94/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |

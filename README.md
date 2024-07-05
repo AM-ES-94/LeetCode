@@ -225,4 +225,8 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AM-ES-94/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->

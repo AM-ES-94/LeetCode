@@ -224,6 +224,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/AM-ES-94/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AM-ES-94/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -236,6 +237,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AM-ES-94/LeetCode/tree/master/0069-sqrtx) |
 | [2645-pass-the-pillow](https://github.com/AM-ES-94/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |

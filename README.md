@@ -238,10 +238,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AM-ES-94/LeetCode/tree/master/0069-sqrtx) |
+| [1642-water-bottles](https://github.com/AM-ES-94/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/AM-ES-94/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/AM-ES-94/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/AM-ES-94/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |

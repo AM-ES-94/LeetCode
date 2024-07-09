@@ -212,6 +212,7 @@
 | [0792-binary-search](https://github.com/AM-ES-94/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/AM-ES-94/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AM-ES-94/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/AM-ES-94/LeetCode/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/AM-ES-94/LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/AM-ES-94/LeetCode/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/AM-ES-94/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |

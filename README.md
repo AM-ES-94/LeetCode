@@ -235,10 +235,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AM-ES-94/LeetCode/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AM-ES-94/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AM-ES-94/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/AM-ES-94/LeetCode/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/AM-ES-94/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/AM-ES-94/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -262,4 +264,8 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AM-ES-94/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AM-ES-94/LeetCode/tree/master/1720-crawler-log-folder) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AM-ES-94/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

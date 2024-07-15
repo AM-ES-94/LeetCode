@@ -1,5 +1,6 @@
 class Solution {
-    private static void breadthFirstSearch(int n, boolean[] traversal, Queue<Integer> q, List<List<Integer>> adjL){
+    private static void breadthFirstSearch(int n, boolean[] traversal, List<List<Integer>> adjL){
+        Queue<Integer> q = new LinkedList<>();
         q.offer(n);
         traversal[n] = true;
 
@@ -29,7 +30,6 @@ class Solution {
     public int findCircleNum(int[][] isConnected) {
         List<List<Integer>> adjL = new ArrayList<>();
         boolean[] traversal = new boolean[isConnected.length + 1];
-        Queue<Integer> q = new LinkedList<>();
 
         for (int i = 0; i <= isConnected.length; ++i){
             adjL.add(new ArrayList<Integer>());
@@ -50,7 +50,7 @@ class Solution {
             if (!traversal[i]){
                 ++citiesCount;
                 //depthFirstSearch(i, traversal, adjL);
-                breadthFirstSearch(i, traversal, q, adjL); 
+                breadthFirstSearch(i, traversal, adjL); 
             }
         }
 

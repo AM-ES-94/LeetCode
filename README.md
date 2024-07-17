@@ -190,11 +190,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AM-ES-94/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AM-ES-94/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -204,6 +206,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AM-ES-94/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
@@ -213,6 +216,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AM-ES-94/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/AM-ES-94/LeetCode/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/AM-ES-94/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -264,6 +268,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AM-ES-94/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |

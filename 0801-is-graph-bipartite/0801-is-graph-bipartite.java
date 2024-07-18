@@ -1,6 +1,6 @@
 class Solution {
 
-    private static boolean checkBipartiteBFS(int start, int[] traversal, List<List<Integer>> adjL){
+    /*private static boolean checkBipartiteBFS(int start, int[] traversal, List<List<Integer>> adjL){
         Queue<Integer> q = new LinkedList<>();
         q.add(start);
         traversal[start] = -1;
@@ -18,9 +18,16 @@ class Solution {
         }
 
         return true;
-    }
+    }*/
 
-    private static boolean checkBipartiteDFS(int[] traversal, List<List<Integer>> adjL){
+    private static boolean checkBipartiteDFS(int start, int color, int[] traversal, List<List<Integer>> adjL){
+        traversal[start] = color;
+        for (int it: adjL.get(start)){
+            if (traversal[it] == 0){
+                if (checkBipartiteDFS(it, -color, traversal, adjL) == false) return false;
+                }
+            else if (traversal[it] != 0 && traversal[it] == color) return false;
+        }
 
         return true;
     }
@@ -45,8 +52,8 @@ class Solution {
 
         for (int i = 0; i < traversal.length; ++i){
             if(traversal[i] == 0) {
-                if(checkBipartiteBFS(i, traversal, adjL) == false) return false;
-                //if(checkBipartiteDFS() == false) return false;
+                //if(checkBipartiteBFS(i, traversal, adjL) == false) return false;
+                if(checkBipartiteDFS(i, 1, traversal, adjL) == false) return false;
             }
         }
 

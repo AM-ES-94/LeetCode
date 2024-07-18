@@ -195,6 +195,7 @@
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AM-ES-94/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AM-ES-94/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/AM-ES-94/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,4 +289,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AM-ES-94/LeetCode/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/AM-ES-94/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/AM-ES-94/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->

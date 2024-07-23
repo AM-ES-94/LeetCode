@@ -173,6 +173,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AM-ES-94/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AM-ES-94/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AM-ES-94/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AM-ES-94/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AM-ES-94/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AM-ES-94/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -212,6 +215,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AM-ES-94/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AM-ES-94/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AM-ES-94/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |

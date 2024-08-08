@@ -251,6 +251,7 @@
 | [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/AM-ES-94/LeetCode/tree/master/0792-binary-search) |
+| [0921-spiral-matrix-iii](https://github.com/AM-ES-94/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/AM-ES-94/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/AM-ES-94/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -311,6 +312,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AM-ES-94/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/AM-ES-94/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AM-ES-94/LeetCode/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/AM-ES-94/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -320,6 +322,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AM-ES-94/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
+| [0921-spiral-matrix-iii](https://github.com/AM-ES-94/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AM-ES-94/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AM-ES-94/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AM-ES-94/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |

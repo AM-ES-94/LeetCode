@@ -34,6 +34,8 @@ class Solution {
 
             order.add(node.val);
         }
+
+        return;
     }
     
     public List<Integer> preorderTraversal(TreeNode root) {

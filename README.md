@@ -250,6 +250,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AM-ES-94/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/AM-ES-94/LeetCode/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/AM-ES-94/LeetCode/tree/master/0792-binary-search) |
 | [0921-spiral-matrix-iii](https://github.com/AM-ES-94/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/0948-sort-an-array) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AM-ES-94/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/AM-ES-94/LeetCode/tree/master/2502-sort-the-people) |

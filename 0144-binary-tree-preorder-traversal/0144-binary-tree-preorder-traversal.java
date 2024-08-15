@@ -20,6 +20,7 @@ class Solution {
         preOrder(order, root.left);
         preOrder(order, root.right);
     }
+    
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> order = new ArrayList<>();
         preOrder(order, root);

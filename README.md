@@ -290,6 +290,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AM-ES-94/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/AM-ES-94/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AM-ES-94/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -308,6 +309,7 @@
 | [0002-add-two-numbers](https://github.com/AM-ES-94/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AM-ES-94/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/AM-ES-94/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/AM-ES-94/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AM-ES-94/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |

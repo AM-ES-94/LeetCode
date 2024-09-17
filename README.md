@@ -313,6 +313,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/AM-ES-94/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AM-ES-94/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AM-ES-94/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AM-ES-94/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [0921-spiral-matrix-iii](https://github.com/AM-ES-94/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/AM-ES-94/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AM-ES-94/LeetCode/tree/master/1803-average-waiting-time) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AM-ES-94/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/AM-ES-94/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/AM-ES-94/LeetCode/tree/master/2846-robot-collisions) |
 ## Matrix

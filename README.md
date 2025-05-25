@@ -179,6 +179,7 @@
 | [0547-number-of-provinces](https://github.com/AM-ES-94/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AM-ES-94/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AM-ES-94/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1039-find-the-town-judge](https://github.com/AM-ES-94/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AM-ES-94/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AM-ES-94/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AM-ES-94/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -259,6 +260,7 @@
 | [0792-binary-search](https://github.com/AM-ES-94/LeetCode/tree/master/0792-binary-search) |
 | [0921-spiral-matrix-iii](https://github.com/AM-ES-94/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/0948-sort-an-array) |
+| [1039-find-the-town-judge](https://github.com/AM-ES-94/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/AM-ES-94/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/AM-ES-94/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AM-ES-94/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AM-ES-94/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1039-find-the-town-judge](https://github.com/AM-ES-94/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AM-ES-94/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AM-ES-94/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/AM-ES-94/LeetCode/tree/master/2502-sort-the-people) |
